@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Clarice Perryman"
   left:
     - text: "Home"
       href: index.html
