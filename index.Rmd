@@ -1,0 +1,17 @@
+---
+title: "index.Rmd"
+author: "Clarice Perryman"
+date: "3/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+title: "Personal Website"
+---
+
+Hello, World!
+
+
