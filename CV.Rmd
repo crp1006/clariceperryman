@@ -7,4 +7,4 @@ knitr::opts_chunk$set(echo = TRUE)
 title: "CV"
 ---
 
-![](/Users/Clarice/Personal_Site/CPerryman_CV_March2020.pdf){width=100% height=400}
+![](/Users/Clarice/Personal_Site/CPerryman_CV_March2020.pdf){width=100% height=500}
