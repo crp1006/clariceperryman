@@ -9,7 +9,8 @@ title: "Clarice Perryman"
 <div class = "row">
   
 <div class = "col-md-3">
-![](/Users/Clarice/Personal_Site/CPerryman_Headshot.jpg)
+![](https://github.com/crp1006/clariceperryman/blob/master/CPerryman_Headshot.jpg)
+
 </div>
   
 <div class = "col-md-9">
