@@ -20,20 +20,20 @@ title: "Research"
   
   
 <div class = "col-md-3”>
-![](/Users/Clarice/Desktop/etc/CPerryman_PWSampling2017.jpg)
+![](/Users/Clarice/Personal_Site/CPerryman_PWSampling2017.jpg)
 </div>
  
 <div class = "col-md-3”>
-![](/Users/Clarice/Desktop/etc/PeatCoring_2018.jpg)
+![](/Users/Clarice/Personal_Site/PeatCoring_2018.jpg)
 </div>
 
 <div class = "col-md-3”>
-![](/Users/Clarice/Desktop/etc/IncPrep_2018.jpeg)
+![](/Users/Clarice/Personal_Site/IncPrep_2018.jpeg)
 </div>
 
 
 <div class = "col-md-3”>
-![](/Users/Clarice/Desktop/etc/CPerryman_Stordalen2017.jpg)
+![](/Users/Clarice/Personal_Site/CPerryman_Stordalen2017.jpg)
 </div>
 
 
