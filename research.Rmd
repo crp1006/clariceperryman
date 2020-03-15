@@ -1,0 +1,42 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+---
+title: "Research"
+---
+
+### Current Projects
+1. Characterizing the pathways and potential for methane oxidizing bacteria to mitigate emissions from thawing permafrost
+2. Effect of woody encroachment on belowground CH~4~ cycling in northern peatlands
+
+### Past Projects
+1. __Master's project:__ Assessing geochemical controls on methane oxidation in thawing permafrost; [Perryman et al., 2020; _JGR Biogeosciences_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JG005526) 
+2. __Undergrad project:__ Impact of historical agriculture on calcite precipitation and pedogenesis in desert soils; [read more here](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/cuag.12241?fbclid=IwAR2OjBvRfMkLfhBn88jV-UoSQ5S7mBNaBVkkiYL5DDYjSWnrKefuQGwvMyQ)
+
+<div class = "row">
+  
+  
+<div class = "col-md-3”>
+![](/Users/Clarice/Desktop/etc/CPerryman_PWSampling2017.jpg)
+</div>
+ 
+<div class = "col-md-3”>
+![](/Users/Clarice/Desktop/etc/PeatCoring_2018.jpg)
+</div>
+
+<div class = "col-md-3”>
+![](/Users/Clarice/Desktop/etc/IncPrep_2018.jpeg)
+</div>
+
+
+<div class = "col-md-3”>
+![](/Users/Clarice/Desktop/etc/CPerryman_Stordalen2017.jpg)
+</div>
+
+
+
+
+

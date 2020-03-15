@@ -1,13 +1,14 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Clarice Perryman"
+  title: ""
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "Research"
+      href: research.html
       
 output:
   html_document:
-    theme: pulse
+    theme: sandstone
+    css: style.css
