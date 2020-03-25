@@ -16,7 +16,9 @@ title: "Clarice Perryman"
 <div class = "col-md-9">
 __PhD Candidate, University of New Hampshire Natural Resources & Earth Systems Science Program__ 
 <br>Dissertation Topic: Climate change impacts on methane oxidizing bacteria in northern peatlands  
-<br>I'm a member of the [Trace Gas Biogeochemistry Lab Group](https://eos.unh.edu/earth-systems-research-center/research-earth-systems-research-center/about-trace-gas-biogeochemistry-group) in the Institute for the Study of Earth, Oceans, and Space at the University of New Hampshire. My graduate research incorpoarates biogeochemistry and microbial ecology to investigate how climate change will impact methane-oxidizing (consuming) bacteria in northern peatlands. I'm an NSF Graduate Research Fellow, a co-coordinator of the [UNH Women in Science](https://twitter.com/UNH_WIS), and part of the 2020 [AGU Voices for Science](https://www.agu.org/Share-and-Advocate/Share/Sharing-science-network/Voices-for-science) cohort.
+<br>I'm a member of the [Trace Gas Biogeochemistry Lab Group](https://eos.unh.edu/earth-systems-research-center/research-earth-systems-research-center/about-trace-gas-biogeochemistry-group) in the Institute for the Study of Earth, Oceans, and Space at the University of New Hampshire where I work to understand the future of greenhouse gas emissions from northern wetlands. My graduate research incorporates biogeochemistry and microbial ecology to investigate how climate change will impact the ability of methane-oxidizing (consuming) bacteria to mitigate methane emissions from peatlands in the Arctic and in New England. 
+
+<br>Outside of my research I'm passionate about sharing science and supporting women in STEM. I'm part of the [UNH Women in Science](https://twitter.com/UNH_WIS) leadership team and a member of the 2020 [AGU Voices for Science](https://www.agu.org/Share-and-Advocate/Share/Sharing-science-network/Voices-for-science) cohort.
 
 </div>
 </div>
