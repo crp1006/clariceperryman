@@ -16,25 +16,8 @@ title: "Research"
 1. __Master's project:__ Assessing geochemical controls on methane oxidation in thawing permafrost; [Perryman et al., 2020; _JGR Biogeosciences_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JG005526) 
 2. __Undergrad project:__ Impact of historical agriculture on calcite precipitation and pedogenesis in desert soils; [read more here](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/cuag.12241?fbclid=IwAR2OjBvRfMkLfhBn88jV-UoSQ5S7mBNaBVkkiYL5DDYjSWnrKefuQGwvMyQ)
 
-<div class = "row">
-  
-  
-<div class = "col-md-3”>
-![](/Users/Clarice/Personal_Site/CPerryman_PWSampling2017.jpg)
-</div>
- 
-<div class = "col-md-3”>
-![](/Users/Clarice/Personal_Site/PeatCoring_2018.jpg)
-</div>
+<br>![](/Users/Clarice/Personal_Site/Kaamanen_pano.jpg)
 
-<div class = "col-md-3”>
-![](/Users/Clarice/Personal_Site/IncPrep_2018.jpeg)
-</div>
-
-
-<div class = "col-md-3”>
-![](/Users/Clarice/Personal_Site/CPerryman_Stordalen2017.jpg)
-</div>
 
 
 

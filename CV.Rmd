@@ -4,7 +4,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ---
-title: "CV"
+title: "Contact and CV"
 ---
 
-![](/Users/Clarice/Personal_Site/CPerryman_CV_March2020.pdf){width=100% height=500}
+__Contact Me:__
+<br>Email: crp1006@wildcats.unh.edu
+<br>Twitter: [ClaricePerryman](https://www.twitter.com/ClaricePerryman)
+<br>[Click here for a copy of my CV (last updated March 2020)](https://drive.google.com/file/d/1ig1EwbY9hoIapiYhnla8nCrWdqoPwpv_/view?usp=sharing)
+<br>
+![](/Users/Clarice/Personal_Site/SalliesFen.jpg)
+
+
