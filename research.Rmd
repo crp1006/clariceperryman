@@ -9,13 +9,12 @@ title: "Research"
 ---
 <div class = "row">
   
-<div class = "col-md-4">
+<div class = "col-md-6">
+<br>
 ![](/Users/Clarice/Personal_Site/SalliesFen_2018.jpg)
-<br>_Image credit:_ Jeremy Gasowski/UNH
+<br>_Image credit:_ Jeremy Gasowski, University of New Hampshire
 </div>
-  
-<div class = "col-md-8">
-
+<div class = "col-md-6">
 ### Current Projects
 1. Characterizing pathways and potential of CH~4~ oxidation in thawing permafrost peatlands using metagenomics and metatranscriptomics
 2. Effect of woody encroachment on belowground CH~4~ cycling in northern peatlands

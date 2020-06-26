@@ -3,7 +3,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
-title: "Clarice Perryman"
+title: "Clarice R. Perryman"
 ---
 
 <div class = "row">
