@@ -16,6 +16,7 @@ title: "Research"
 ### Past Projects
 1. __Master's project:__ Assessing geochemical controls on methane oxidation in thawing permafrost; [Perryman et al., 2020; _JGR Biogeosciences_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JG005526) 
 2. __Undergrad project:__ Impact of historical agriculture on calcite precipitation and pedogenesis in desert soils; [read more here](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/cuag.12241?fbclid=IwAR2OjBvRfMkLfhBn88jV-UoSQ5S7mBNaBVkkiYL5DDYjSWnrKefuQGwvMyQ)
+3. __Assesing stock of heavy metals in Arctic soils__: Synthesized publicly availble data on heavy metals in soils above 60N, identified key data gaps in public record of these data and priorities for future work on heavy metal storage in permafrost-affected soils [Perryman et al., 2020; _PLOS ONE_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233297)
 
 <br>![](/Users/Clarice/Personal_Site/Kaamanen_pano.jpg)
 
